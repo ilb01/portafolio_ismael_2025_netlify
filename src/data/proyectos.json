@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "title": "Netflix Clone",
+        "description": "A React and Node.js application that replicates the Netflix user interface.",
+        "image": "netflix.png",
+        "technologies": [
+            "React",
+            "CSS",
+            "Node.js"
+        ],
+        "github": "https://github.com/ilb01/HOMEWORK_IAW_2025/tree/main/2%C2%BA_IAW_2025/ACT-1.1-source/netflix"
+    },
+    {
+        "id": 2,
+        "title": "Sneaker App",
+        "description": "An interactive application for exploring sneaker collections.",
+        "image": "shoes.png",
+        "technologies": [
+            "React",
+            "CSS",
+            "Node.js"
+        ],
+        "github": "https://github.com/ilb01/HOMEWORK_IAW_2025/tree/main/2%C2%BA_IAW_2025/ACT-1.1-source/shoes"
+    },
+    {
+        "id": 3,
+        "title": "Travel Blog",
+        "description": "A platform for sharing and reading travel experiences.",
+        "image": "travel.png",
+        "technologies": [
+            "React",
+            "CSS",
+            "Node.js"
+        ],
+        "github": "https://github.com/ilb01/HOMEWORK_IAW_2025/tree/main/2%C2%BA_IAW_2025/ACT-1.1-source/travel"
+    },
+    {
+        "id": 4,
+        "title": "Clothing E-commerce",
+        "description": "An online clothing store with a user-friendly interface.",
+        "image": "dress.png",
+        "technologies": [
+            "HTML",
+            "CSS"
+        ],
+        "url": "https://dress-ismael.netlify.app/",
+        "github": "https://github.com/ilb01/LLM-EX1-ismael-lozano"
+    },
+    {
+        "id": 5,
+        "title": "Portfolio Ismael 2022",
+        "description": "My personal portfolio from 2022 showcasing my work.",
+        "image": "portafolio_2022.png",
+        "technologies": [
+            "HTML",
+            "CSS"
+        ],
+        "url": "https://portafolioismael-2022.netlify.app/",
+        "github": "https://github.com/ilb01/portafolio_ismael_lozano"
+    },
+    {
+        "id": 6,
+        "title": "Udemy Courses",
+        "description": "A showcase of various completed online courses on Udemy.",
+        "image": "udemy.png",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "github": "https://github.com/ilb01/HOMEWORK2023/tree/main/UT4/CURSOS"
+    },
+    {
+        "id": 7,
+        "title": "Camper Store",
+        "description": "An e-commerce project for browsing and purchasing Camper shoes.",
+        "image": "camper.png",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "github": "https://github.com/ilb01/HOMEWORK2023/tree/main/UT4/ACT%204.5/CAMPER"
+    },
+    {
+        "id": 8,
+        "title": "Stranger Things Netflix",
+        "description": "A web project inspired by the 'Stranger Things' series.",
+        "image": "stranger.png",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "github": "https://github.com/ilb01/HOMEWORK2023/tree/main/UT4/STRANGERTHINGS"
+    },
+    {
+        "id": 9,
+        "title": "Movie Listing",
+        "description": "An application for browsing and discovering movies.",
+        "image": "cartelera.png",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "github": "https://github.com/ilb01/HOMEWORK2023/tree/main/UT5/API-MOVIES"
+    }
+]
